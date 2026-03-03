@@ -1,9 +1,6 @@
-Name = ("Name: Prabukumar")
-print(Name)
-Roll = ("Roll Number: IITP_AIMLTN_2602728")
-print(Roll)
-Assign = ("Assignment: Python Loops & Automation - Subjective Question")
-print(Assign)
+#Name: Prabukumar
+#Roll Number: IITP_AIMLTN_2602728
+#Assignment: Python Loops & Automation - Subjective Question
 
 
 print("===== Task 1: Find Maximum and Minimum =====")
